@@ -1,4 +1,4 @@
-# Student Survey For Content up to the Sinatra Project
+# Student Survey For Sinatra
 
 ## We Would Like Your Feedback
 
