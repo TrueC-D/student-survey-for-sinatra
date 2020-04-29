@@ -13,4 +13,6 @@ Please feel free to respond openly. We value your honest feedback.
 
 ## [Student Survey][survey]
 
-[survey]: https://flatironschoolforms.formstack.com/forms/student_survey?Discipline=Software%20Engineering
+**Note:** This is considered the end of Module/Phase 2 in the survey
+
+[survey]: https://learn.co/redirect/student-nps-survey?Discipline=Software%20Engineering
