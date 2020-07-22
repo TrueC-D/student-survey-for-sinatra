@@ -1,10 +1,10 @@
-# Student Survey For Sinatra
+# Student Survey For Phase 2
 
 ## We Would Like Your Feedback
 
-Now that you’ve completed the Sinatra project and the second part of our program, we
-would like you to [complete this survey][survey] reflecting on your experience
-thus far.
+Now that you’ve completed the Sinatra project and the second part of our
+program, we would like you to [complete this survey][survey] reflecting on your
+experience thus far.
 
 We anonymize your feedback and then read every word so we can learn from you and
 work to make your time at Flatiron School the best that it can be.
